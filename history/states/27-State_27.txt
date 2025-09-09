@@ -4,6 +4,10 @@ state={
 	provinces={
 		1932 6161 9092 9154 9213 
 	}
+	history = {
+		owner = HYA
+		add_core_of=HYA
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
