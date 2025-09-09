@@ -1,0 +1,14 @@
+state={
+	id=158
+	name="STATE_158"
+	provinces={
+		1077 3292 6536 9132 9155 9172 9193 9220 9240 
+	}
+	history={
+		owner=NML
+		add_core_of=NML
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

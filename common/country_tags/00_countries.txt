@@ -1,1 +1,8 @@
 TES	= "countries/Test.txt"
+
+##圣三一##
+TRI = "countries/Trinity_School.txt"
+SRS = "countries/South_Recover_State.txt"
+CRS = "countries/Center_Recover_State.txt"
+NRS = "countries/North_Recover_State.txt"
+NML = "countries/No_Man_Land.txt"

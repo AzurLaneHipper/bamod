@@ -1,0 +1,14 @@
+state={
+	id=150
+	name="STATE_150"
+	provinces={
+		844 4534 5823 9131 9185 
+	}
+	history={
+		owner=NRS
+		add_core_of=NRS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

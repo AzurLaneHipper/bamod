@@ -1,0 +1,14 @@
+state={
+	id=177
+	name="STATE_177"
+	provinces={
+		8763 8777 8822 8834 8888 
+	}
+	history={
+		owner=NML
+		add_core_of=NML
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

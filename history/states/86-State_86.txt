@@ -4,6 +4,10 @@ state={
 	provinces={
 		3046 4312 4328 5072 5165 9198 9266 9295 
 	}
+	history={
+		owner=TRI
+		add_core_of=TRI
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

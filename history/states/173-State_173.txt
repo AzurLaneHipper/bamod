@@ -1,0 +1,14 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		1554 5123 8884 8943 8965 
+	}
+	history={
+		owner=NML
+		add_core_of=NML
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

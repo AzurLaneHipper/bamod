@@ -1,0 +1,14 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		886 9106 9148 
+	}
+	history={
+		owner=NRS
+		add_core_of=NRS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
