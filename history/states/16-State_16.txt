@@ -4,6 +4,10 @@ state={
 	provinces={
 		2843 2979 3315 5655 6383 13304 
 	}
+	history = {
+		owner = MIL
+		add_core_of=MIL
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

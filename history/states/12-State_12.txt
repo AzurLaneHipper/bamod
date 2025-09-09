@@ -4,6 +4,10 @@ state={
 	provinces={
 		452 1023 1848 8056 8074 
 	}
+	history = {
+		owner = RWT
+		add_core_of=RWT
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
