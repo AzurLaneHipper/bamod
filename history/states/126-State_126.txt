@@ -4,6 +4,10 @@ state={
 	provinces={
 		4187 5573 9708 9754 9769 9808 9853 9865 
 	}
+	history={
+		owner=NML
+		add_core_of=NML
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

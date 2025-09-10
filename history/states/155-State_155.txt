@@ -5,8 +5,8 @@ state={
 		1075 9257 9273 9341 
 	}
 	history={
-		owner=NML
-		add_core_of=NML
+		owner=SCR
+		add_core_of=SCR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

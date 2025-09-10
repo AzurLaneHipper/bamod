@@ -9,8 +9,9 @@ NRS = "countries/North_Recover_State.txt"
 #########
 ##缓冲区##
 
-#阿里乌斯
+#阿里乌斯赛区
 NML = "countries/No_Man_Land.txt"
+NGW = "countries/No_Gov_WasteLand.txt"
 MRD = "countries/MotorRaiders.txt"
 SCR = "countries/ScrapCollector.txt"
 ASC = "countries/AriusStudentCouncil.txt"

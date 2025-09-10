@@ -31,6 +31,11 @@ NML = {
 	color_ui = rgb { 56 52 52 }
 }
 
+NGW = {
+	color = rgb { 29 46 82 }
+	color_ui = rgb { 39 56 92}
+}
+
 MRD = {
 	color = rgb { 204 204 204 }
 	color_ui = rgb { 214 214 214 }

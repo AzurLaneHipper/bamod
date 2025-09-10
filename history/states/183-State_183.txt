@@ -5,8 +5,8 @@ state={
 		38 739 3174 4324 4874 8566 8609 
 	}
 	history={
-		owner=AAS
-		add_core_of=AAS
+		owner=NGW
+		add_core_of=NGW
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
