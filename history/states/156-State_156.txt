@@ -1,0 +1,14 @@
+state={
+	id=156
+	name="STATE_156"
+	provinces={
+		2343 5391 5696 8961 9047 9066 9093 
+	}
+	history={
+		owner=NRS
+		add_core_of=NRS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

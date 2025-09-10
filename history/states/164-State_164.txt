@@ -1,0 +1,14 @@
+state={
+	id=164
+	name="STATE_164"
+	provinces={
+		4237 4849 5267 8659 8670 8679 8729 8783 
+	}
+	history={
+		owner=NGW
+		add_core_of=NGW
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

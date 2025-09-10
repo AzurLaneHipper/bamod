@@ -1,0 +1,14 @@
+state={
+	id=195
+	name="STATE_195"
+	provinces={
+		2366 2930 8873 8913 9007 
+	}
+	history={
+		owner=ARU
+		add_core_of=ARU
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

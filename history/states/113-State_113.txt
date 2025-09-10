@@ -4,6 +4,10 @@ state={
 	provinces={
 		4428 9347 9404 9410 9442 
 	}
+	history={
+		owner=CRS
+		add_core_of=CRS
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

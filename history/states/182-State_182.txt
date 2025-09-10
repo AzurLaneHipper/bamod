@@ -1,0 +1,14 @@
+state={
+	id=182
+	name="STATE_182"
+	provinces={
+		2663 4116 6941 8487 8519 8531 8588 
+	}
+	history={
+		owner=AAS
+		add_core_of=AAS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

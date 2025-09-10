@@ -4,6 +4,10 @@ state={
 	provinces={
 		830 981 4009 4381 7267 9871 9888 9894 9898 9931 10053 10086 
 	}
+	history={
+		owner=SRS
+		add_core_of=SRS
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

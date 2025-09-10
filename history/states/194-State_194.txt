@@ -1,0 +1,14 @@
+state={
+	id=194
+	name="STATE_194"
+	provinces={
+		5245 9052 9070 9108 9109 
+	}
+	history={
+		owner=ARU
+		add_core_of=ARU
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

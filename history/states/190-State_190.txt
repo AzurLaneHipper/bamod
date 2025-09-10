@@ -1,0 +1,14 @@
+state={
+	id=190
+	name="STATE_190"
+	provinces={
+		1553 2404 4552 6127 7024 8437 8458 8541 8630 
+	}
+	history={
+		owner=MRD
+		add_core_of=MRD
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

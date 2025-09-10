@@ -2,7 +2,11 @@ state={
 	id=118
 	name="STATE_118"
 	provinces={
-		2479 2941 9690 9734 9781 9824 
+		2479 2941 9734 9781 9824 
+	}
+	history={
+		owner=SRS
+		add_core_of=SRS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

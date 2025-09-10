@@ -1,0 +1,14 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		3374 3707 6286 8684 8748 8808 
+	}
+	history={
+		owner=NRS
+		add_core_of=NRS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
