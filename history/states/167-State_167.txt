@@ -4,6 +4,10 @@ state={
 	provinces={
 		95 170 5910 8949 8952 8970 
 	}
+	history={
+		owner=ASC
+		add_core_of=ASC
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

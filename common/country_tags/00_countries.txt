@@ -5,4 +5,17 @@ TRI = "countries/Trinity_School.txt"
 SRS = "countries/South_Recover_State.txt"
 CRS = "countries/Center_Recover_State.txt"
 NRS = "countries/North_Recover_State.txt"
+
+#########
+##缓冲区##
+
+#阿里乌斯
 NML = "countries/No_Man_Land.txt"
+MRD = "countries/MotorRaiders.txt"
+SCR = "countries/ScrapCollector.txt"
+ASC = "countries/AriusStudentCouncil.txt"
+ALF = "countries/AriusLiberationFront.txt"
+ARA = "countries/AriusArmy.txt"
+AAS = "countries/AriusAdeptus.txt"
+ARU = "countries/AriusRevengeUnion.txt"
+ARM = "countries/AriusMarines.txt"

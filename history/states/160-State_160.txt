@@ -4,6 +4,10 @@ state={
 	provinces={
 		968 3398 7509 9349 9406 
 	}
+	history={
+		owner=ARA
+		add_core_of=ARA
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

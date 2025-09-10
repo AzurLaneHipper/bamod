@@ -4,6 +4,10 @@ state={
 	provinces={
 		1290 1476 1946 2386 3049 3807 4143 
 	}
+	history={
+		owner=MRD
+		add_core_of=MRD
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

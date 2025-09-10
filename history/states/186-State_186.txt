@@ -4,6 +4,10 @@ state={
 	provinces={
 		1170 1951 3124 6044 8835 
 	}
+	history={
+		owner=AAS
+		add_core_of=AAS
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -30,3 +30,42 @@ NML = {
 	color = rgb { 46 42 42 }
 	color_ui = rgb { 56 52 52 }
 }
+
+MRD = {
+	color = rgb { 204 204 204 }
+	color_ui = rgb { 214 214 214 }
+}
+
+SCR = {
+	color = rgb { 163 160 160 }
+	color_ui = rgb { 173 170 170 }
+}
+
+ASC = {
+	color = rgb { 138 54 86 }
+	color_ui = rgb { 148 64 96 }
+}
+
+ALF = {
+	color = rgb { 238 121 118 }
+	color_ui = rgb { 248 131 128 }
+}
+
+ARA = {
+	color = rgb { 115 125 135 }
+	color_ui = rgb { 125 135 145 }
+}
+
+AAS = {
+	color = rgb { 170 141 204 }
+	color_ui = rgb { 180 151 214 }
+}
+
+ARU = {
+	color = rgb { 81 27 120 }
+	color_ui = rgb { 91 37 130 }
+}
+ARM = {
+	color = rgb { 56 125 176 }
+	color_ui = rgb { 56 125 176 }
+}

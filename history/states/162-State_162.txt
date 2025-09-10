@@ -4,6 +4,10 @@ state={
 	provinces={
 		366 392 443 4961 6431 
 	}
+	history={
+		owner=SCR
+		add_core_of=SCR
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
