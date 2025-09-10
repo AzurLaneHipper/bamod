@@ -1,0 +1,14 @@
+state={
+	id=212
+	name="STATE_212"
+	provinces={
+		3128 4829 9727 9770 9776 
+	}
+	history = {
+		owner = CLG
+		add_core_of = CLG
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

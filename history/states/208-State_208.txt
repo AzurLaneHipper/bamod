@@ -1,0 +1,14 @@
+state={
+	id=208
+	name="STATE_208"
+	provinces={
+		4187 9754 9808 
+	}
+	history={
+		owner=PBH
+		add_core_of=PBH
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

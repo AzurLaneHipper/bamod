@@ -2,7 +2,11 @@ state={
 	id=130
 	name="STATE_130"
 	provinces={
-		5584 7179 10248 10295 10326 10395 
+		2310 5565 7179 10247 10248 
+	}
+	history={
+		owner=WHG
+		add_core_of=WHG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

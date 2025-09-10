@@ -2,7 +2,11 @@ state={
 	id=128
 	name="STATE_128"
 	provinces={
-		279 569 2316 4456 6905 9933 9965 
+		279 569 4456 9933 9965 
+	}
+	history={
+		owner=DHG
+		add_core_of=DHG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

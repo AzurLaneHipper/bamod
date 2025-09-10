@@ -4,6 +4,10 @@ state={
 	provinces={
 		2368 6799 9534 9596 9625 9658 9710 
 	}
+	history = {
+		owner = KCG
+		add_core_of = KCG
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

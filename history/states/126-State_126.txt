@@ -2,11 +2,11 @@ state={
 	id=126
 	name="STATE_126"
 	provinces={
-		4187 5573 9708 9754 9769 9808 9853 9865 
+		399 5573 9853 9865 9924 
 	}
-	history={
-		owner=NML
-		add_core_of=NML
+	history = {
+		owner = KPW
+		add_core_of = KPW
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

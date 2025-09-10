@@ -1,0 +1,14 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		2316 10035 10077 10098 10137 10152 
+	}
+	history={
+		owner=DHG
+		add_core_of=DHG
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

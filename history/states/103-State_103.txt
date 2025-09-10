@@ -2,7 +2,7 @@ state={
 	id=103
 	name="STATE_103"
 	provinces={
-		5304 7049 9879 9930 9967 10049 10097 
+		7049 9879 9930 9967 
 	}
 	history={
 		owner=TRI
