@@ -2,7 +2,7 @@ state={
 	id=89
 	name="STATE_89"
 	provinces={
-		2329 4582 6577 9904 10004 10020 10048 
+		2329 4582 9904 10004 10020 
 	}
 	history={
 		owner=TRI

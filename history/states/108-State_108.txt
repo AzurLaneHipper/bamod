@@ -4,6 +4,10 @@ state={
 	provinces={
 		1703 2838 3282 5895 10089 
 	}
+	history = {
+		owner = KPW
+		add_core_of = KPW
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

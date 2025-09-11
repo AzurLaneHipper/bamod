@@ -2,7 +2,11 @@ state={
 	id=140
 	name="STATE_140"
 	provinces={
-		812 7355 9917 9968 
+		812 7355 9917 9968 10034 
+	}
+	history={
+		owner=RHG
+		add_core_of=RHG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

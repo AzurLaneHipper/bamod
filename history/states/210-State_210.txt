@@ -1,0 +1,14 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		2873 9873 
+	}
+	history={
+		owner=SRS
+		add_core_of=SRS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -70,7 +70,73 @@ ARU = {
 	color = rgb { 81 27 120 }
 	color_ui = rgb { 91 37 130 }
 }
+
 ARM = {
 	color = rgb { 56 125 176 }
 	color_ui = rgb { 56 125 176 }
+}
+
+PBH = {
+	color = rgb { 107 36 63 }
+	color_ui = rgb { 117 46 73 }
+}
+
+TID = {
+	color = rgb { 227 109 138 }
+	color_ui = rgb { 237 119 148 }
+}
+
+KPW = {
+	color = rgb { 209 189 69 }
+	color_ui = rgb { 219 199 79 }
+}
+
+CLG = {
+	color = rgb { 54 118 125 }
+	color_ui = rgb { 64 118 135 }
+}
+
+KCG = {
+	color = rgb { 46 170 184 }
+	color_ui = rgb { 56 180 194 }
+}
+
+WHG = {
+	color = rgb { 115 107 107}
+	color_ui = rgb { 115 107 107 }
+}
+
+CHG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+FHG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+MHG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+OHG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+THG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+RHG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+DHG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
 }

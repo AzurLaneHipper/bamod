@@ -2,11 +2,11 @@ state={
 	id=202
 	name="STATE_202"
 	provinces={
-		9558 9588 9630 9691 
+		1488 9630 9690 9691 
 	}
 	history={
-		owner=CRS
-		add_core_of=CRS
+		owner=SRS
+		add_core_of=SRS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

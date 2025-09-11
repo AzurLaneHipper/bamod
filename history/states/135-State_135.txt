@@ -2,7 +2,11 @@ state={
 	id=135
 	name="STATE_135"
 	provinces={
-		2562 2682 4742 5161 6017 6261 6818 10034 10107 
+		2562 4742 5161 6017 6261 6818 10107 
+	}
+	history={
+		owner=CHG
+		add_core_of=CHG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

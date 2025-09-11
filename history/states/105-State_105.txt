@@ -2,11 +2,11 @@ state={
 	id=105
 	name="STATE_105"
 	provinces={
-		5034 6632 7210 9873 9880 9989 
+		5034 6632 7210 9880 9989 
 	}
-	history={
-		owner=NML
-		add_core_of=NML
+	history = {
+		owner = TID
+		add_core_of = TID
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

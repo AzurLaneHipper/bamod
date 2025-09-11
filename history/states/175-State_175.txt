@@ -2,7 +2,7 @@ state={
 	id=175
 	name="STATE_175"
 	provinces={
-		2140 3190 8996 9018 9040 
+		2140 3190 9018 
 	}
 	history={
 		owner=NML
