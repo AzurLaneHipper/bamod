@@ -1,12 +1,12 @@
 state={
-	id=184
-	name="STATE_184"
+	id=250
+	name="STATE_250"
 	provinces={
-		2517 4635 8467 8557 8567 
+		56 1602 5491 6884 9475 9511 
 	}
 	history={
-		owner=LAS
-		add_core_of=LAS
+		owner=SCR
+		add_core_of=SCR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

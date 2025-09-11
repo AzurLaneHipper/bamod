@@ -2,7 +2,7 @@ state={
 	id=155
 	name="STATE_155"
 	provinces={
-		1075 9257 9273 9341 
+		1075 9273 9341 
 	}
 	history={
 		owner=SCR

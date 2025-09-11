@@ -5,8 +5,8 @@ state={
 		1032 1276 2149 4244 8864 8955 
 	}
 	history={
-		owner=ASC
-		add_core_of=ASC
+		owner=ARU
+		add_core_of=ARU
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

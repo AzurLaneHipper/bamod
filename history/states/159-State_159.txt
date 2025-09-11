@@ -2,11 +2,11 @@ state={
 	id=159
 	name="STATE_159"
 	provinces={
-		56 1602 1777 5491 6884 9357 9379 9414 9475 9511 
+		1777 9357 9379 9414 
 	}
 	history={
-		owner=ARA
-		add_core_of=ARA
+		owner=AMS
+		add_core_of=AMS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

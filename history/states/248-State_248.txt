@@ -1,12 +1,12 @@
 state={
-	id=184
-	name="STATE_184"
+	id=248
+	name="STATE_248"
 	provinces={
-		2517 4635 8467 8557 8567 
+		38 982 4324 8671 
 	}
 	history={
-		owner=LAS
-		add_core_of=LAS
+		owner=HPF
+		add_core_of=HPF
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

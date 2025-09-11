@@ -5,8 +5,8 @@ state={
 		1482 3175 5324 9231 9244 9348 
 	}
 	history={
-		owner=ARA
-		add_core_of=ARA
+		owner=AMS
+		add_core_of=AMS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

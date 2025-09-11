@@ -2,11 +2,11 @@ state={
 	id=185
 	name="STATE_185"
 	provinces={
-		982 2093 7413 8638 8671 8769 8784 8831 
+		2093 7413 8638 
 	}
 	history={
-		owner=AAS
-		add_core_of=AAS
+		owner=HPF
+		add_core_of=HPF
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
