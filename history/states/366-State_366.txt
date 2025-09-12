@@ -4,6 +4,10 @@ state={
 	provinces={
 		831 6531 10099 
 	}
+	history={
+		owner=TCO
+		add_core_of=TCO
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

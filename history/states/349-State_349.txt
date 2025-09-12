@@ -2,7 +2,11 @@ state={
 	id=349
 	name="STATE_349"
 	provinces={
-		1762 10125 
+		5585 6978 9910 9934 
+	}
+	history={
+		owner=MOR
+		add_core_of=MOR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

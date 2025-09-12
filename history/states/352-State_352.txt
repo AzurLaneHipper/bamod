@@ -2,7 +2,11 @@ state={
 	id=352
 	name="STATE_352"
 	provinces={
-		3540 5585 6978 9827 9875 9910 9934 
+		3540 9827 9875 
+	}
+	history={
+		owner=BLS
+		add_core_of=BLS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

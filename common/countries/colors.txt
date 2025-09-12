@@ -165,3 +165,83 @@ DHG = {
 	color = rgb { 115 107 107 }
 	color_ui = rgb { 115 107 107 }
 }
+
+BPE = {
+	color = rgb { 117 161 109 }
+	color_ui = rgb { 127 171 119 }
+}
+
+MCT = {
+	color = rgb { 184 143 29 }
+	color_ui = rgb { 194 153 39 }
+}
+
+VST = {
+	color = rgb { 21 65 158 }
+	color_ui = rgb { 31 75 168 }
+}
+
+GSO = {
+	color = rgb { 77 10 11 }
+	color_ui = rgb { 87 20 21 }
+}
+
+SEO = {
+	color = rgb { 161 18 18 }
+	color_ui = rgb { 171 28 28 }
+}
+
+SCD = {
+	color = rgb { 87 152 201 }
+	color_ui = rgb { 97 162 211 }
+}
+
+NPS = {
+	color = rgb { 173 114 14 }
+	color_ui = rgb { 183 124 24 }
+}
+
+BGS = {
+	color = rgb { 215 216 217 }
+	color_ui = rgb { 225 226 227 }
+}
+
+BLM = {
+	color = rgb { 165 165 165 }
+	color_ui = rgb { 175 175 175 }
+}
+
+GCO = {
+	color = rgb { 145 20 23 }
+	color_ui = rgb { 155 30 33 }
+}
+
+TCO = {
+	color = rgb { 224 212 137 }
+	color_ui = rgb { 234 222 147 }
+}
+
+DCP = {
+	color = rgb { 179 11 14 }
+	color_ui = rgb { 189 21 24 }
+}
+
+BLS = {
+	color = rgb { 218 213 233 }
+	color_ui = rgb { 228 223 243 }
+}
+
+FEA = {
+	color = rgb { 121 198 205 }
+	color_ui = rgb { 131 208 215 }
+}
+
+WSL = {
+	color = rgb { 56 59 61 }
+	color_ui = rgb { 66 69 71 }
+}
+
+MOR = {
+	color = rgb { 200 175 250 }
+	color_ui = rgb { 210 185 260 }
+}

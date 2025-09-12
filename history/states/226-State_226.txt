@@ -4,6 +4,10 @@ state={
 	provinces={
 		2284 3484 10322 10357 10418 
 	}
+	history={
+		owner=DCP
+		add_core_of=DCP
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

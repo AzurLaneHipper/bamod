@@ -4,6 +4,10 @@ state={
 	provinces={
 		9612 9636 9643 9698 
 	}
+	history={
+		owner=SEO
+		add_core_of=SEO
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

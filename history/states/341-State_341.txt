@@ -4,6 +4,10 @@ state={
 	provinces={
 		720 1062 6384 7508 9449 
 	}
+	history={
+		owner=MCT
+		add_core_of=MCT
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

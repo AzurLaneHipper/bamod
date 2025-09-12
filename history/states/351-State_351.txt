@@ -4,6 +4,10 @@ state={
 	provinces={
 		4836 9711 9719 9763 
 	}
+	history={
+		owner=BLS
+		add_core_of=BLS
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -2,7 +2,11 @@ state={
 	id=215
 	name="STATE_215"
 	provinces={
-		314 2070 9415 
+		314 2070 9415 9460 
+	}
+	history={
+		owner=GSO
+		add_core_of=GSO
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

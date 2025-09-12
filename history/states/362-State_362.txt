@@ -2,7 +2,11 @@ state={
 	id=362
 	name="STATE_362"
 	provinces={
-		626 9954 10007 10021 
+		626 10007 10021 
+	}
+	history={
+		owner=BGS
+		add_core_of=BGS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

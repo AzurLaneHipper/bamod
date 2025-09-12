@@ -1,0 +1,14 @@
+state={
+	id=371
+	name="STATE_371"
+	provinces={
+		751 3657 9728 9782 
+	}
+	history={
+		owner=FEA
+		add_core_of=FEA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

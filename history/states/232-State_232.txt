@@ -2,7 +2,11 @@ state={
 	id=232
 	name="STATE_232"
 	provinces={
-		2929 6939 9998 10062 10126 10139 
+		6939 10062 10126 10139 
+	}
+	history={
+		owner=DCP
+		add_core_of=DCP
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,7 +2,11 @@ state={
 	id=353
 	name="STATE_353"
 	provinces={
-		9843 9889 9905 
+		9843 9866 9889 9905 
+	}
+	history={
+		owner=FEA
+		add_core_of=FEA
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

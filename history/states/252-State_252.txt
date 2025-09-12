@@ -2,7 +2,11 @@ state={
 	id=252
 	name="STATE_252"
 	provinces={
-		4596 10078 
+		1762 4596 10078 10125 
+	}
+	history={
+		owner=VST
+		add_core_of=VST
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -4,6 +4,10 @@ state={
 	provinces={
 		4873 6216 9468 9500 9505 9565 
 	}
+	history={
+		owner=NPS
+		add_core_of=NPS
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

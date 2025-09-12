@@ -2,7 +2,11 @@ state={
 	id=344
 	name="STATE_344"
 	provinces={
-		2246 3973 5970 9460 
+		2246 4805 5970 
+	}
+	history={
+		owner=NPS
+		add_core_of=NPS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

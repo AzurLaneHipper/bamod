@@ -4,6 +4,10 @@ state={
 	provinces={
 		841 973 6497 9380 9433 
 	}
+	history={
+		owner=BLM
+		add_core_of=BLM
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

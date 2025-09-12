@@ -4,6 +4,10 @@ state={
 	provinces={
 		222 4117 4781 10214 10256 
 	}
+	history={
+		owner=VST
+		add_core_of=VST
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

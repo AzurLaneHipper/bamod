@@ -1,0 +1,14 @@
+state={
+	id=369
+	name="STATE_369"
+	provinces={
+		3583 6617 9954 
+	}
+	history={
+		owner=BGS
+		add_core_of=BGS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

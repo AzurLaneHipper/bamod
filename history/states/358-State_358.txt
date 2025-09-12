@@ -2,7 +2,11 @@ state={
 	id=358
 	name="STATE_358"
 	provinces={
-		2476 3022 6905 9788 9819 9938 
+		6905 9938 
+	}
+	history={
+		owner=SCD
+		add_core_of=SCD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

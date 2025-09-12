@@ -4,6 +4,10 @@ state={
 	provinces={
 		1743 5956 9881 9935 9991 
 	}
+	history={
+		owner=MOR
+		add_core_of=MOR
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
