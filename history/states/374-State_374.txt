@@ -1,0 +1,14 @@
+state={
+	id=374
+	name="STATE_374"
+	provinces={
+		2345 4884 5362 9471 9485 9529 
+	}
+	history={
+		owner=HIL
+		add_core_of=HIL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

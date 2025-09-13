@@ -259,3 +259,7 @@ WLH = {
         color = rgb {	148 0 211}
         color_ui = rgb { 160 32 240 }
 }
+HIL= {
+        color = rgb{139 120 12}
+        color_ui = rgb { 140 110 12 }
+}
