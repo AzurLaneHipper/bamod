@@ -1,12 +1,8 @@
 state={
-	id=243
-	name="STATE_243"
+	id=412
+	name="STATE_412"
 	provinces={
-		3191 4455 7252 
-	}
-	history={
-		owner=ELD
-		add_core_of=ELD
+		1341 9079 9141 9146 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

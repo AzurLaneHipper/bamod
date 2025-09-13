@@ -246,6 +246,16 @@ MOR = {
 	color_ui = rgb { 210 185 260 }
 }
 
+ELD = {
+	color = rgb { 238 204 153 }
+	color_ui = rgb { 248 214 163 }
+}
+
+GDF = {
+	color = rgb { 152 192 145 }
+	color_ui = rgb { 162 202 155 }
+}
+
 ############东大陆上半区
 GEH = {
         color = rgb {175 32 32}

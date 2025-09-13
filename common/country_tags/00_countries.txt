@@ -59,6 +59,18 @@ FEA = "countries/FreeArmy.txt"
 WSL = "countries/WasteLand.txt"
 MOR = "countries/MysteryObserver.txt"
 
+##阿拜多斯赛区
+GDF = "countries/GreenDefender.txt"
+HLR = "countries/HighLanderRegiment.txt"
+ELD = "countries/EndlessDesert.txt"
+OMC = "countries/ObsidianPMC.txt"
+IAA = "countries/IcarusAviationAcademy.txt"
+TAE = "countries/TheAncientEra.txt"
+UDF = "countries/UnitedFront.txt"
+MTR = "countries/MountainRaiders.txt"
+RTB = "countries/RocketTribe.txt"
+AOS = "countries/AstraObserveStation.txt"
+
 #东大陆上半区
 GEH = "countries/Gehenna.txt"
 ABY = "countries/Abydos.txt"
