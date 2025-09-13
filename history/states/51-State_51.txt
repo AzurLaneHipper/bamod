@@ -4,6 +4,10 @@ state={
 	provinces={
 		2468 7149 11148 11198 11256 11313 
 	}
+	history = {
+		owner = GEH
+		add_core_of=GEH
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

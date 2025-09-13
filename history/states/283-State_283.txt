@@ -4,6 +4,10 @@ state={
 	provinces={
 		2793 6553 9899 9911 9958 
 	}
+	history = {
+		owner = ERZ
+		add_core_of=ERZ
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

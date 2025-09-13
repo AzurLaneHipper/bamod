@@ -58,3 +58,10 @@ BLS = "countries/BlackLilySchool.txt"
 FEA = "countries/FreeArmy.txt"
 WSL = "countries/WasteLand.txt"
 MOR = "countries/MysteryObserver.txt"
+
+#东大陆上半区
+GEH = "countries/Gehenna.txt"
+ABY = "countries/Abydos.txt"
+WLH = "countries/Wlidhunt.txt"
+HIL = "countries/Highland.txt"
+ERZ = "countries/ErzMusic.txt"

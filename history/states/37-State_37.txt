@@ -4,6 +4,10 @@ state={
 	provinces={
 		782 7448 9373 9443 9479 9535 
 	}
+	history = {
+		owner = WLH
+		add_core_of=WLH
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
