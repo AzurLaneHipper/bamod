@@ -1,0 +1,14 @@
+state={
+	id=442
+	name="STATE_442"
+	provinces={
+		232 1606 2645 2879 6050 10274 10402 
+	}
+	history={
+		owner=RDR
+		add_core_of=RDR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

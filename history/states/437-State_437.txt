@@ -1,0 +1,14 @@
+state={
+	id=437
+	name="STATE_437"
+	provinces={
+		3965 4830 10394 10401 10429 10479 
+	}
+	history={
+		owner=RDR
+		add_core_of=RDR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

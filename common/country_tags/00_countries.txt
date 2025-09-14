@@ -87,3 +87,9 @@ FSG = "countries/ForestSonGang.txt"
 RBG = "countries/RibbonGang.txt"
 BBG = "countries/BigBubbleGang.txt"
 LSG = "countries/LongSailGang.txt"
+
+#西大陆赛区
+RDR = "countries/RedDragonRoyal.txt"
+YSL = "countries/Yusula.txt"
+SHS = "countries/SevenHillsSaint.txt"
+DTG = "countries/Dartagnan.txt"

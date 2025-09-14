@@ -1,0 +1,14 @@
+state={
+	id=454
+	name="STATE_454"
+	provinces={
+		1040 2393 3416 10350 10403 10415 
+	}
+	history={
+		owner=SHS
+		add_core_of=SHS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

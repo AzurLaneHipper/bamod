@@ -1,0 +1,14 @@
+state={
+	id=449
+	name="STATE_449"
+	provinces={
+		1675 2853 10788 10820 10876 10916 
+	}
+	history={
+		owner=SHS
+		add_core_of=SHS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

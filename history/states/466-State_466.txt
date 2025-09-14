@@ -1,0 +1,14 @@
+state={
+	id=466
+	name="STATE_466"
+	provinces={
+		3543 4248 6924 10974 11033 
+	}
+	history={
+		owner=DTG
+		add_core_of=DTG
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

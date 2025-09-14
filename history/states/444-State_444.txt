@@ -1,0 +1,14 @@
+state={
+	id=444
+	name="STATE_444"
+	provinces={
+		5718 7504 10388 10441 10526 
+	}
+	history={
+		owner=YSL
+		add_core_of=YSL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

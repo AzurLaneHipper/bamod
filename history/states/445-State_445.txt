@@ -1,0 +1,14 @@
+state={
+	id=445
+	name="STATE_445"
+	provinces={
+		4787 4853 10330 10362 10414 
+	}
+	history={
+		owner=YSL
+		add_core_of=YSL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

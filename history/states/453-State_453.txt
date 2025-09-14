@@ -1,0 +1,14 @@
+state={
+	id=453
+	name="STATE_453"
+	provinces={
+		2023 5779 6064 10469 10564 10606 
+	}
+	history={
+		owner=SHS
+		add_core_of=SHS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
