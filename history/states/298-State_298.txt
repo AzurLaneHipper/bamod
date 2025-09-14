@@ -4,6 +4,10 @@ state={
 	provinces={
 		2996 6791 10842 10904 10963 10995 
 	}
+	history = {
+		owner = LSG
+		add_core_of=LSG
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

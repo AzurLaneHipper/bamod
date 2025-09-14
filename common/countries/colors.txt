@@ -328,3 +328,31 @@ HIL= {
         color = rgb{139 120 12}
         color_ui = rgb { 140 110 12 }
 }
+RHM= {
+        color = rgb{129 0 0}
+        color_ui = rgb { 140 0 0 }
+}
+OSG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+FSG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+RBG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+BBG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
+
+LSG = {
+	color = rgb { 115 107 107 }
+	color_ui = rgb { 115 107 107 }
+}
