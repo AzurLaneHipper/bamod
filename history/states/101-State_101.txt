@@ -2,11 +2,7 @@ state={
 	id=101
 	name="STATE_101"
 	provinces={
-		10228 10270 10279 10308 
-	}
-	history={
-		owner=TRI
-		add_core_of=TRI
+		10353 10404 7492 7046 3219 10498
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

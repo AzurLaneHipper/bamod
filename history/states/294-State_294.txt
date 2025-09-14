@@ -4,6 +4,10 @@ state={
 	provinces={
 		2084 10229 10282 10339 10379 
 	}
+	history = {
+		owner = BBG
+		add_core_of=BBG
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
