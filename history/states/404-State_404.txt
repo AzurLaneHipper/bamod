@@ -2,7 +2,11 @@ state={
 	id=404
 	name="STATE_404"
 	provinces={
-		4452 6969 9195 9224 
+		3652 4452 6969 9195 9224 
+	}
+	history={
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

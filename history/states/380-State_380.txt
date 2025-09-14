@@ -2,7 +2,7 @@ state={
 	id=380
 	name="STATE_380"
 	provinces={
-		3382 6043 8944 9001 9048 
+		3382 5109 6043 9048 
 	}
 	history={
 		owner=GDF

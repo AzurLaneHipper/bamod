@@ -251,9 +251,64 @@ ELD = {
 	color_ui = rgb { 248 214 163 }
 }
 
+HLR = {
+	color = rgb { 115 156 107 }
+	color_ui = rgb { 125 166 117 }
+}
+
 GDF = {
 	color = rgb { 152 192 145 }
 	color_ui = rgb { 162 202 155 }
+}
+
+OMC = {
+	color = rgb { 100 76 125 }
+	color_ui = rgb { 110 86 135 }
+}
+
+IAA = {
+	color = rgb { 135 206 235 }
+	color_ui = rgb { 145 216 245 }
+}
+
+TAE = {
+	color = rgb { 31 6 48 }
+	color_ui = rgb { 41 16 58 }
+}
+
+UDF = {
+	color = rgb { 121 198 205 }
+	color_ui = rgb { 131 208 215 }
+}
+
+MTR = {
+	color = rgb { 8 87 27 }
+	color_ui = rgb { 18 97 37 }
+}
+
+HTB = {
+	color = rgb { 192 234 75 }
+	color_ui = rgb { 202 244 85 }
+}
+
+RTB = {
+	color = rgb { 214 143 21 }
+	color_ui = rgb { 224 153 31 }
+}
+
+AOS = {
+	color = rgb { 96 121 191 }
+	color_ui = rgb { 106 131 201 }
+}
+
+EGD = {
+	color = rgb { 123 127 131 }
+	color_ui = rgb { 133 137 141 }
+}
+
+FGD = {
+	color = rgb { 148 38 41 }
+	color_ui = rgb { 158 48 51 }
 }
 
 ############东大陆上半区

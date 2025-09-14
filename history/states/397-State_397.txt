@@ -4,6 +4,10 @@ state={
 	provinces={
 		6369 8551 8583 8640 
 	}
+	history={
+		owner=FGD
+		add_core_of=FGD
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

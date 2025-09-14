@@ -2,11 +2,11 @@ state={
 	id=244
 	name="STATE_244"
 	provinces={
-		3079 6515 9258 9298 
+		966 3079 6515 9186 9258 9298 
 	}
 	history={
-		owner=ELD
-		add_core_of=ELD
+		owner=IAA
+		add_core_of=IAA
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,7 +2,11 @@ state={
 	id=221
 	name="STATE_221"
 	provinces={
-		46 7153 7365 9196 
+		46 636 7153 7365 9196 
+	}
+	history={
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

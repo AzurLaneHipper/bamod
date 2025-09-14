@@ -2,7 +2,11 @@ state={
 	id=414
 	name="STATE_414"
 	provinces={
-		1195 2534 6148 6347 
+		1195 6148 6347 
+	}
+	history={
+		owner=RTB
+		add_core_of=RTB
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,7 +2,11 @@ state={
 	id=393
 	name="STATE_393"
 	provinces={
-		1662 6618 6776 
+		6618 6776 
+	}
+	history={
+		owner=FGD
+		add_core_of=FGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

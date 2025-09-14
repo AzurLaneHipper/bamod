@@ -2,7 +2,11 @@ state={
 	id=425
 	name="STATE_425"
 	provinces={
-		644 4271 5306 8785 8895 
+		644 4271 5306 8785 8895 8922 8953 
+	}
+	history={
+		owner=UDF
+		add_core_of=UDF
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

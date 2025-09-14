@@ -69,7 +69,10 @@ TAE = "countries/TheAncientEra.txt"
 UDF = "countries/UnitedFront.txt"
 MTR = "countries/MountainRaiders.txt"
 RTB = "countries/RocketTribe.txt"
+HTB = "countries/HelicopterTribe.txt"
 AOS = "countries/AstraObserveStation.txt"
+EGD = "countries/EquipmentGraveyard.txt"
+FGD = "countries/FlameGround.txt"
 
 #东大陆上半区
 GEH = "countries/Gehenna.txt"

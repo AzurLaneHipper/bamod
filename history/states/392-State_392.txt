@@ -4,6 +4,10 @@ state={
 	provinces={
 		1429 3020 8574 8633 
 	}
+	history={
+		owner=AOS
+		add_core_of=AOS
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

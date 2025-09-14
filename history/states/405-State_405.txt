@@ -2,7 +2,11 @@ state={
 	id=405
 	name="STATE_405"
 	provinces={
-		1559 3559 4005 6103 9100 
+		3559 4005 9100 
+	}
+	history={
+		owner=MTR
+		add_core_of=MTR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

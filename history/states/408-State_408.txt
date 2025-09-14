@@ -2,7 +2,11 @@ state={
 	id=408
 	name="STATE_408"
 	provinces={
-		1556 9246 
+		1344 5987 8731 8815 
+	}
+	history={
+		owner=AOS
+		add_core_of=AOS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

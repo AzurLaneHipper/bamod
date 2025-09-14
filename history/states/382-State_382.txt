@@ -5,8 +5,8 @@ state={
 		2016 7417 9128 9138 
 	}
 	history={
-		owner=ELD
-		add_core_of=ELD
+		owner=IAA
+		add_core_of=IAA
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

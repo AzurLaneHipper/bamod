@@ -2,7 +2,11 @@ state={
 	id=411
 	name="STATE_411"
 	provinces={
-		5192 6911 8901 8988 
+		928 8988 
+	}
+	history={
+		owner=HLR
+		add_core_of=HLR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

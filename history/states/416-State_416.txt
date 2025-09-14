@@ -2,7 +2,11 @@ state={
 	id=416
 	name="STATE_416"
 	provinces={
-		2810 4006 5987 8731 8771 
+		2810 4006 8771 8837 
+	}
+	history={
+		owner=OMC
+		add_core_of=OMC
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

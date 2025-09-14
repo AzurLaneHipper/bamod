@@ -2,11 +2,11 @@ state={
 	id=381
 	name="STATE_381"
 	provinces={
-		2338 3007 5109 8962 
+		2338 3007 8944 8962 9001 
 	}
 	history={
-		owner=GDF
-		add_core_of=GDF
+		owner=ELD
+		add_core_of=ELD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

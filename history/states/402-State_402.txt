@@ -4,6 +4,10 @@ state={
 	provinces={
 		1054 2257 9008 9033 9071 
 	}
+	history={
+		owner=MTR
+		add_core_of=MTR
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

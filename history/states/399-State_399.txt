@@ -4,6 +4,10 @@ state={
 	provinces={
 		4095 8870 8894 
 	}
+	history={
+		owner=TAE
+		add_core_of=TAE
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

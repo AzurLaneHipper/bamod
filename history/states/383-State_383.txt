@@ -2,7 +2,11 @@ state={
 	id=383
 	name="STATE_383"
 	provinces={
-		966 2072 4405 6119 9147 9186 
+		2072 3841 4405 6119 9101 9147 
+	}
+	history={
+		owner=IAA
+		add_core_of=IAA
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -4,6 +4,10 @@ state={
 	provinces={
 		3843 7183 8853 8865 
 	}
+	history={
+		owner=GDF
+		add_core_of=GDF
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
