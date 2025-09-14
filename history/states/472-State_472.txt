@@ -1,8 +1,8 @@
 state={
-	id=438
-	name="STATE_438"
+	id=472
+	name="STATE_472"
 	provinces={
-		1348 5068 10519 10538 10589 10605 10662 
+		1979 10657 10682 10690 10718 
 	}
 	history={
 		owner=DTG

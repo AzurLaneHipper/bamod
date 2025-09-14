@@ -5,8 +5,8 @@ state={
 		998 1424 6250 10569 10632 10710 
 	}
 	history={
-		owner=RDR
-		add_core_of=RDR
+		owner=DTG
+		add_core_of=DTG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

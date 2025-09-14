@@ -1,0 +1,10 @@
+state={
+	id=485
+	name="STATE_485"
+	provinces={
+		2046 2357 3072 6655 11522 11573 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
