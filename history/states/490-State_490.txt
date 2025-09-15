@@ -1,0 +1,14 @@
+state={
+	id=490
+	name="STATE_490"
+	provinces={
+		271 6651 7454 10914 10919 11006 
+	}
+	history={
+		owner=SFB
+		add_core_of=SFB
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

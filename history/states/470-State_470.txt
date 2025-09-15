@@ -2,11 +2,11 @@ state={
 	id=470
 	name="STATE_470"
 	provinces={
-		5605 5863 6162 7451 10757 10852 
+		5605 5863 7451 10738 10757 10852 
 	}
 	history={
-		owner=DTG
-		add_core_of=DTG
+		owner=YSL
+		add_core_of=YSL
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

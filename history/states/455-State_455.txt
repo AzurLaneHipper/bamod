@@ -5,8 +5,8 @@ state={
 		5538 6066 7011 10453 10614 10683 
 	}
 	history={
-		owner=SHS
-		add_core_of=SHS
+		owner=DTG
+		add_core_of=DTG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,11 +2,11 @@ state={
 	id=428
 	name="STATE_428"
 	provinces={
-		4104 4647 5402 10294 10307 
+		 4834 10526 10540 10582 10583
 	}
 	history={
-		owner=TRI
-		add_core_of=TRI
+		owner=SHS
+		add_core_of=SHS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

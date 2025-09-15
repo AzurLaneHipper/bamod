@@ -5,8 +5,8 @@ state={
 		920 1257 6972 10756 10818 10823 
 	}
 	history={
-		owner=DTG
-		add_core_of=DTG
+		owner=RDR
+		add_core_of=RDR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

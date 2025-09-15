@@ -4,6 +4,10 @@ state={
 	provinces={
 		3203 4779 11568 11574 11600 11620 
 	}
+	history={
+		owner=SFB
+		add_core_of=SFB
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

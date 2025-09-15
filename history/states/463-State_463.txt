@@ -2,11 +2,11 @@ state={
 	id=463
 	name="STATE_463"
 	provinces={
-		3485 5368 10539 10633 10696 
+		2057 2851 3485 3827 10539 10557 
 	}
 	history={
-		owner=DTG
-		add_core_of=DTG
+		owner=SHS
+		add_core_of=SHS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

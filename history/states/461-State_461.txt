@@ -2,7 +2,7 @@ state={
 	id=461
 	name="STATE_461"
 	provinces={
-		541 993 5583 6419 10749 
+		541 993 5583 6419 6841 10749 
 	}
 	history={
 		owner=DTG

@@ -2,11 +2,11 @@ state={
 	id=448
 	name="STATE_448"
 	provinces={
-		3860 5708 10497 10509 10664 
+		2698 2982 3860 5708 10497 10509 10664 
 	}
 	history={
-		owner=SHS
-		add_core_of=SHS
+		owner=DTG
+		add_core_of=DTG
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

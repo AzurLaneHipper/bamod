@@ -1,0 +1,14 @@
+state={
+	id=507
+	name="STATE_507"
+	provinces={
+		3526 3992 6139 6307 6362 10967 11007 
+	}
+	history={
+		owner=SFB
+		add_core_of=SFB
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -2,7 +2,7 @@ state={
 	id=454
 	name="STATE_454"
 	provinces={
-		1040 2393 3416 10350 10403 10415 
+		1040 2393 3416 10350 10403 
 	}
 	history={
 		owner=SHS
