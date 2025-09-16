@@ -1,12 +1,8 @@
 state={
-	id=566
-	name="STATE_566"
+	id=612
+	name="STATE_612"
 	provinces={
-		3010 5227 10068 
-	}
-	history={
-		owner=TSA
-		add_core_of=TSA
+		1393 6082 6937 10535 10570 10600 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

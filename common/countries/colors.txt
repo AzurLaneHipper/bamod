@@ -25,6 +25,11 @@ NRS = {
 	color_ui = rgb { 234 214 107 }
 }
 
+TSA = {
+	color = rgb { 245 220 81 }
+	color_ui = rgb { 245 220 81 }
+}
+
 ############缓冲区
 NML = {
 	color = rgb { 46 42 42 }

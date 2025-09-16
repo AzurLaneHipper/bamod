@@ -4,6 +4,10 @@ state={
 	provinces={
 		10353 10404 7492 7046 3219 10498
 	}
+	history={
+		owner=TSA
+		add_core_of=TSA
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

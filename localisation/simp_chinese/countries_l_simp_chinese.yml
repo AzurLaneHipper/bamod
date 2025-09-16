@@ -19,6 +19,10 @@
  SRS_DEF: "南部秩序重建区"
  SRS_ADJ: "南部秩序重建区"
 
+ TSA: "关税特别区域"
+ TSA_DEF: "关税特别区域"
+ TSA_ADJ: "关税特别区域"
+
  NML: ""
  NML_DEF: "无名废墟"
  NML_ADJ: "无名废墟"
@@ -26,7 +30,6 @@
  NGW: "无序荒野"
  NGW_DEF: "无序荒野"
  NGW_ADJ: "无序荒野"
-
 
  MRD: "田野飞车党"
  MRD_DEF: "田野飞车党"

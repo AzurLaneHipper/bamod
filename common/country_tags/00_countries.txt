@@ -5,6 +5,7 @@ TRI = "countries/Trinity_School.txt"
 SRS = "countries/South_Recover_State.txt"
 CRS = "countries/Center_Recover_State.txt"
 NRS = "countries/North_Recover_State.txt"
+TSA = "countries/TrinitySpecialArea.txt"
 
 #########
 ##缓冲区##
