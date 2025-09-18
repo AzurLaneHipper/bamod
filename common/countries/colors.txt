@@ -1,5 +1,10 @@
 #reload countrycolors
 
+GSC = {
+	color = rgb { 56 74 209 }
+	color_ui = rgb { 66 84 219 }
+}
+
 TRI = {
 	color = rgb { 249 237 166 }
 	color_ui = rgb { 256 247 167 }

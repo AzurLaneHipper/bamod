@@ -1,0 +1,14 @@
+state={
+	id=645
+	name="STATE_645"
+	provinces={
+		1896 5081 5687 6687 11698 11749 
+	}
+	history={
+		owner=GSC
+		add_core_of=GSC
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

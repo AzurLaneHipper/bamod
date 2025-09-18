@@ -4,6 +4,10 @@ state={
 	provinces={
 		2706 3399 4974 6251 6673 11035 11070 11136 11158 
 	}
+	history={
+		owner=GSC
+		add_core_of=GSC
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

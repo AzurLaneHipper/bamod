@@ -1,0 +1,14 @@
+state={
+	id=641
+	name="STATE_641"
+	provinces={
+		2401 6629 11465 11529 
+	}
+	history={
+		owner=GSC
+		add_core_of=GSC
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
