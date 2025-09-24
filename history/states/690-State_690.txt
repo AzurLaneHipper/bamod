@@ -4,6 +4,10 @@ state={
 	provinces={
 		3612 4161 8515 8516 8571 8616 
 	}
+	history = {
+		owner = ALG
+		add_core_of=ALG
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

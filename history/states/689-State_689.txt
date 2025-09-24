@@ -4,6 +4,10 @@ state={
 	provinces={
 		757 1143 2603 4617 8658 8686 8717 8749 8787 
 	}
+	history = {
+		owner = DLG
+		add_core_of=DLG
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

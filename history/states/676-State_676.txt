@@ -4,6 +4,10 @@ state={
 	provinces={
 		2131 3795 6300 8681 8691 
 	}
+	history = {
+		owner = ABY
+		add_core_of=ABY
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

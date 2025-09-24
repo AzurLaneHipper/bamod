@@ -4,6 +4,10 @@ state={
 	provinces={
 		190 6716 8552 8570 8601 8655 8682 
 	}
+	history = {
+		owner = GLG
+		add_core_of=GLG
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

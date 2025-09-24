@@ -4,6 +4,10 @@ state={
 	provinces={
 		4700 9669 9670 9714 
 	}
+	history = {
+		owner = FMB
+		add_core_of=FMB
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -4,6 +4,10 @@ state={
 	provinces={
 		2018 3375 3560 6522 9766 9821 
 	}
+	history = {
+		owner = FWB
+		add_core_of=FWB
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

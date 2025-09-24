@@ -279,6 +279,22 @@
  RHM_DEF: "莱茵军工学院"
  RHM_ADJ: "莱茵军工学院"
 
+ MAS: "玛尔斯学院"
+ MAS_DEF: "玛尔斯学院"
+ MAS_ADJ: "玛尔斯学院"
+
+ STM: "斯蒂姆工程学院"
+ STM_DEF: "斯蒂姆工程学院"
+ STM_ADJ: "斯蒂姆工程学院"
+
+ FWB: "相风乌气象学院"
+ FWB_DEF: "相风乌气象学院"
+ FWB_ADJ: "相风乌气象学院"
+
+ FMB: "向峰鸟探险团"
+ FMB_DEF: "向峰鸟探险团"
+ FMB_ADJ: "向峰鸟探险团"
+
  OSG: "绿洲钢盔团"
  OSG_DEF: "绿洲钢盔团"
  OSG_ADJ: "绿洲钢盔团"
@@ -318,3 +334,48 @@
  SFB: "圣法佩皇立学院"
  SFB_DEF: "圣法佩皇立学院"
  SFB_ADJ: "圣法佩皇立学院"
+
+ #################################西大陆阿拜
+ ABY: "阿拜多斯学院"
+ ABY_DEF: "阿拜多斯学院"
+ ABY_ADJ: "阿拜多斯学院"
+
+ GLG: "嘎啦钢盔团"
+ GLG_DEF: "嘎啦钢盔团"
+ GLG_ADJ: "嘎啦钢盔团"
+
+ KLG: "咔啦钢盔团"
+ KLG_DEF: "咔啦钢盔团"
+ KLG_ADJ: "咔啦钢盔团"
+
+ PLG: "噗啦钢盔团"
+ PLG_DEF: "噗啦钢盔团"
+ PLG_ADJ: "噗啦钢盔团"
+
+ BLG: "不啦钢盔团"
+ BLG_DEF: "不啦钢盔团"
+ BLG_ADJ: "不啦钢盔团"
+
+ SLG: "沙啦钢盔团"
+ SLG_DEF: "沙啦钢盔团"
+ SLG_ADJ: "沙啦钢盔团"
+
+ HLG: "哗啦钢盔团"
+ HLG_DEF: "哗啦钢盔团"
+ HLG_ADJ: "哗啦钢盔团"
+
+ LLG: "啦啦钢盔团"
+ LLG_DEF: "啦啦钢盔团"
+ LLG_ADJ: "啦啦钢盔团"
+
+ XLG: "嘻啦钢盔团"
+ XLG_DEF: "嘻啦钢盔团"
+ XLG_ADJ: "嘻啦钢盔团"
+
+ DLG: "嘟啦钢盔团"
+ DLG_DEF: "嘟啦钢盔团"
+ DLG_ADJ: "嘟啦钢盔团"
+
+ ALG: "啊啦钢盔团"
+ ALG_DEF: "啊啦钢盔团"
+ ALG_ADJ: "啊啦钢盔团"

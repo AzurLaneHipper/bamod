@@ -4,6 +4,10 @@ state={
 	provinces={
 		5558 9530 9567 9584 9644 
 	}
+	history = {
+		owner = STM
+		add_core_of=STM
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

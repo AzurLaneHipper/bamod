@@ -4,6 +4,10 @@ state={
 	provinces={
 		555 727 1660 1920 2558 5116 5735 7189 8390 8510 
 	}
+	history = {
+		owner = HLG
+		add_core_of=HLG
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
