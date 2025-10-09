@@ -5,8 +5,8 @@ state={
 		3022 9788 
 	}
 	history={
-		owner=BGS
-		add_core_of=BGS
+		owner=BLM
+		add_core_of=BLM
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

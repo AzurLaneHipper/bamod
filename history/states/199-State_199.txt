@@ -2,11 +2,11 @@ state={
 	id=199
 	name="STATE_199"
 	provinces={
-		3805 6083 8610 8723 
+		3049 4933 6083 8723 
 	}
 	history={
-		owner=MRD
-		add_core_of=MRD
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

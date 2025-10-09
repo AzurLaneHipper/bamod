@@ -2,7 +2,7 @@ state={
 	id=189
 	name="STATE_189"
 	provinces={
-		1290 1476 1946 2386 3049 3807 4143 
+		1290 1476 1946 2386 3807 4143 
 	}
 	history={
 		owner=LUS

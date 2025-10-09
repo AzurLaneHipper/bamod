@@ -2,11 +2,11 @@ state={
 	id=217
 	name="STATE_217"
 	provinces={
-		4191 4667 9307 
+		4191 4667 
 	}
 	history={
-		owner=MCT
-		add_core_of=MCT
+		owner=GSO
+		add_core_of=GSO
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

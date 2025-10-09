@@ -312,8 +312,8 @@ AOS = {
 }
 
 EGD = {
-	color = rgb { 123 127 131 }
-	color_ui = rgb { 133 137 141 }
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 54 54 54 }
 }
 
 FGD = {

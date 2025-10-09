@@ -5,8 +5,8 @@ state={
 		1054 2257 9008 9033 9071 
 	}
 	history={
-		owner=MTR
-		add_core_of=MTR
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

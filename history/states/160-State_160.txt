@@ -2,7 +2,7 @@ state={
 	id=160
 	name="STATE_160"
 	provinces={
-		968 3398 7509 9349 9406 
+		3398 7509 9349 9406 
 	}
 	history={
 		owner=AMS

@@ -2,11 +2,11 @@ state={
 	id=342
 	name="STATE_342"
 	provinces={
-		3107 9360 9390 9412 9448 
+		3107 9390 9412 9448 
 	}
 	history={
-		owner=MCT
-		add_core_of=MCT
+		owner=NPS
+		add_core_of=NPS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

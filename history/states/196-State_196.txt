@@ -5,8 +5,8 @@ state={
 		2964 5312 9019 9020 9054 9060 9149 
 	}
 	history={
-		owner=HTS
-		add_core_of=HTS
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

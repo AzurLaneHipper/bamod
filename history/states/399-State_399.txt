@@ -5,8 +5,8 @@ state={
 		4095 8870 8894 
 	}
 	history={
-		owner=TAE
-		add_core_of=TAE
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

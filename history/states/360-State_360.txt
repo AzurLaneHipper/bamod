@@ -2,11 +2,11 @@ state={
 	id=360
 	name="STATE_360"
 	provinces={
-		1772 3159 9755 9815 
+		751 3159 9755 9815 
 	}
 	history={
-		owner=FEA
-		add_core_of=FEA
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

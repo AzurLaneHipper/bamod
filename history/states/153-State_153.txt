@@ -2,11 +2,11 @@ state={
 	id=153
 	name="STATE_153"
 	provinces={
-		6717 7142 9432 9489 
+		6717 9432 9489 
 	}
 	history={
-		owner=SCR
-		add_core_of=SCR
+		owner=AMS
+		add_core_of=AMS
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
