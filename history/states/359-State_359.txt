@@ -2,11 +2,11 @@ state={
 	id=359
 	name="STATE_359"
 	provinces={
-		2209 2902 4913 9597 9627 9674 
+		2209 2902 9597 9627 9674 
 	}
 	history={
-		owner=EGD
-		add_core_of=EGD
+		owner=BLM
+		add_core_of=BLM
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

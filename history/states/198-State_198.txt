@@ -5,8 +5,8 @@ state={
 		1699 5223 8495 8599 8639 
 	}
 	history={
-		owner=MRD
-		add_core_of=MRD
+		owner=ARM
+		add_core_of=ARM
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

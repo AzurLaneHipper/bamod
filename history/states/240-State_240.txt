@@ -5,8 +5,8 @@ state={
 		1222 4413 9279 9328 9330 
 	}
 	history={
-		owner=BPE
-		add_core_of=BPE
+		owner=EGD
+		add_core_of=EGD
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

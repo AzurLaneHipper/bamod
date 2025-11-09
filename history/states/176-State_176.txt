@@ -5,8 +5,8 @@ state={
 		392 439 443 1873 5843 6597 8926 9032 9069 
 	}
 	history={
-		owner=NGW
-		add_core_of=NGW
+		owner=SCR
+		add_core_of=SCR
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,7 +2,7 @@ state={
 	id=191
 	name="STATE_191"
 	provinces={
-		4169 4411 9121 9167 9194 
+		4411 9121 9167 9194 
 	}
 	history={
 		owner=ARA

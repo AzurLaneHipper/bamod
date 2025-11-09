@@ -5,8 +5,8 @@ state={
 		3107 9390 9412 9448 
 	}
 	history={
-		owner=NPS
-		add_core_of=NPS
+		owner=GSO
+		add_core_of=GSO
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
