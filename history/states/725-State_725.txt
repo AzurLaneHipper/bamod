@@ -1,0 +1,14 @@
+state={
+	id=725
+	name="STATE_725"
+	provinces={
+		3532 6858 12085 12091 12112 12138 12145 12193 12199 
+	}
+	history={
+		owner=CCL
+		add_core_of=CCL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

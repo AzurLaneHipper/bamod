@@ -9,6 +9,12 @@ TSA = "countries/TrinitySpecialArea.txt"
 
 ##联邦学生会
 GSC = "countries/GeneralStudentCouncil.txt"
+ASA = "countries/AdeSkyAcademy.txt"
+GNZ = "countries/GSNatureZone.txt"
+FAL = "countries/FederalAslagon.txt"
+CCL = "countries/CoronaCouncil.txt"
+
+
 #########
 ##缓冲区##
 

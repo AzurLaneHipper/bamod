@@ -4,6 +4,10 @@ state={
 	provinces={
 		647 1314 4125 5438 11339 11348 11393 
 	}
+	history={
+		owner=FAL
+		add_core_of=FAL
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

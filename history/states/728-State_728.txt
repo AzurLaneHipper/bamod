@@ -1,0 +1,14 @@
+state={
+	id=728
+	name="STATE_728"
+	provinces={
+		1814 3686 4042 6264 11614 11707 
+	}
+	history={
+		owner=FAL
+		add_core_of=FAL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

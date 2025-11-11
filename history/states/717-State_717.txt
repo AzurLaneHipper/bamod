@@ -1,0 +1,14 @@
+state={
+	id=717
+	name="STATE_717"
+	provinces={
+		2968 3961 4231 12500 12534 
+	}
+	history={
+		owner=CCL
+		add_core_of=CCL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

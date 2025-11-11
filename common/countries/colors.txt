@@ -5,6 +5,28 @@ GSC = {
 	color_ui = rgb { 66 84 219 }
 }
 
+GNZ = {
+	color = rgb { 76 94 229 }
+	color_ui = rgb { 76 94 229 }
+}
+
+ASA = {
+	color = rgb { 42 82 190 }
+	color_ui = rgb { 42 82 190 }
+}
+
+FAL = {
+	color = rgb { 25 25 112 }
+	color_ui = rgb { 25 25 112 }
+}
+
+CCL = {
+	color = rgb { 26 94 55 }
+	color_ui = rgb { 26 94 55 }
+}
+
+####
+
 TRI = {
 	color = rgb { 249 237 166 }
 	color_ui = rgb { 256 247 167 }

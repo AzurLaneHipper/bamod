@@ -5,8 +5,8 @@ state={
 		1807 4956 11435 11449 11490 11576 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=ASA
+		add_core_of=ASA
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

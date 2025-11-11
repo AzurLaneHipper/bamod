@@ -1,0 +1,14 @@
+state={
+	id=702
+	name="STATE_702"
+	provinces={
+		629 2365 4431 6142 6620 11524 11584 11610 11622 11664 11688 11716 11735 11770 
+	}
+	history={
+		owner=FAL
+		add_core_of=FAL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
