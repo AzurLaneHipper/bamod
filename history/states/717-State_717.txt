@@ -2,7 +2,7 @@ state={
 	id=717
 	name="STATE_717"
 	provinces={
-		2968 3961 4231 12500 12534 
+		2968 3961 4231 12447 12497 12500 12534 
 	}
 	history={
 		owner=CCL

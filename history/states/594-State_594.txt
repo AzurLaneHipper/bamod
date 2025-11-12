@@ -2,7 +2,7 @@ state={
 	id=594
 	name="STATE_594"
 	provinces={
-		96 4319 5341 7352 11055 11132 
+		96 5341 7352 11055 11132 
 	}
 	history={
 		owner=GSC

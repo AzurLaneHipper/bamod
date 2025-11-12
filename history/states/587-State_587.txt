@@ -2,11 +2,11 @@ state={
 	id=587
 	name="STATE_587"
 	provinces={
-		4427 10542 10599 10669 10670 
+		4427 10542 10599 10669 10670 10728 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=SCB
+		add_core_of=SCB
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

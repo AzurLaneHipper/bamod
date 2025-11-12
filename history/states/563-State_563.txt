@@ -5,8 +5,8 @@ state={
 		4515 4531 10097 10204 
 	}
 	history={
-		owner=TSA
-		add_core_of=TSA
+		owner=SCB
+		add_core_of=SCB
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

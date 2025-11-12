@@ -2,11 +2,11 @@ state={
 	id=580
 	name="STATE_580"
 	provinces={
-		5405 10727 10770 10796 10833 10853 10886 
+		4521 5405 6589 10727 10770 10796 10833 10853 10886 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=TSA
+		add_core_of=TSA
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

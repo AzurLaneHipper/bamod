@@ -5,9 +5,29 @@ GSC = {
 	color_ui = rgb { 66 84 219 }
 }
 
+SCB = {
+	color = rgb { 30 144 255 }
+	color_ui = rgb { 30 144 255 }
+}
+
+SEC = {
+	color = rgb { 100 149 237 }
+	color_ui = rgb { 100 149 237 }
+}
+
 GNZ = {
 	color = rgb { 76 94 229 }
 	color_ui = rgb { 76 94 229 }
+}
+
+SRT = {
+	color = rgb { 70 130 180 }
+	color_ui = rgb { 70 130 180 }
+}
+
+HTA = {
+	color = rgb { 65 105 225 }
+	color_ui = rgb { 65 105 225 }
 }
 
 ASA = {
@@ -53,8 +73,8 @@ NRS = {
 }
 
 TSA = {
-	color = rgb { 245 220 81 }
-	color_ui = rgb { 245 220 81 }
+	color = rgb { 32 178 170 }
+	color_ui = rgb { 32 178 170 }
 }
 
 ############缓冲区

@@ -1,12 +1,12 @@
 state={
-	id=624
-	name="STATE_624"
+	id=741
+	name="STATE_741"
 	provinces={
-		4109 5479 6060 11203 11244 11293 
+		205 513 904 1870 7078 12102 12167 12171 12342 
 	}
 	history={
-		owner=HTA
-		add_core_of=HTA
+		owner=GNZ
+		add_core_of=GNZ
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

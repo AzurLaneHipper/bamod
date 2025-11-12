@@ -2,11 +2,11 @@ state={
 	id=590
 	name="STATE_590"
 	provinces={
-		3982 5275 6411 6599 11083 11112 11126 11219 
+		556 5478 11219 11315 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=SEC
+		add_core_of=SEC
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

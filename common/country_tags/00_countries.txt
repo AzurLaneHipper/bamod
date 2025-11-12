@@ -9,11 +9,14 @@ TSA = "countries/TrinitySpecialArea.txt"
 
 ##联邦学生会
 GSC = "countries/GeneralStudentCouncil.txt"
+SCB = "countries/SliverCornerBay.txt"
 ASA = "countries/AdeSkyAcademy.txt"
+SEC = "countries/SteamEngineeringCollege.txt"
 GNZ = "countries/GSNatureZone.txt"
+SRT = "countries/SRTSpecialAcademy.txt"
+HTA = "countries/HybridTacticalAcademy.txt"
 FAL = "countries/FederalAslagon.txt"
 CCL = "countries/CoronaCouncil.txt"
-
 
 #########
 ##缓冲区##
@@ -85,7 +88,7 @@ FGD = "countries/FlameGround.txt"
 
 #东大陆上半区
 GEH = "countries/Gehenna.txt"
-ABY = "countries/Abydos.txt"
+#ABY = "countries/Abydos.txt"  ##重复了
 WLH = "countries/Wlidhunt.txt"
 HIL = "countries/Highland.txt"
 ERZ = "countries/ErzMusic.txt"

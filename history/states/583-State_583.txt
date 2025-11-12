@@ -5,8 +5,8 @@ state={
 		332 1715 3609 10241 10301 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=SCB
+		add_core_of=SCB
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

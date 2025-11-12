@@ -5,8 +5,8 @@ state={
 		2725 3339 11311 11366 
 	}
 	history={
-		owner=GNZ
-		add_core_of=GNZ
+		owner=SRT
+		add_core_of=SRT
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

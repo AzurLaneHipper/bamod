@@ -2,11 +2,11 @@ state={
 	id=576
 	name="STATE_576"
 	provinces={
-		2642 5892 11247 11260 
+		2642 3982 5892 6411 11247 11260 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=SEC
+		add_core_of=SEC
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

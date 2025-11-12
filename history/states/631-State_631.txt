@@ -2,7 +2,7 @@ state={
 	id=631
 	name="STATE_631"
 	provinces={
-		2490 2940 6145 10838 10947 
+		2706 3399 6673 11070 
 	}
 	history={
 		owner=GSC

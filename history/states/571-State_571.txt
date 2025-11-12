@@ -5,8 +5,8 @@ state={
 		1976 5080 5838 11125 11163 11178 11246 
 	}
 	history={
-		owner=GSC
-		add_core_of=GSC
+		owner=SEC
+		add_core_of=SEC
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

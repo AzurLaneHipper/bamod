@@ -4,6 +4,10 @@ state={
 	provinces={
 		1459 2708 4487 4957 11783 
 	}
+	history={
+		owner=GNZ
+		add_core_of=GNZ
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

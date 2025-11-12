@@ -5,6 +5,10 @@
  GSC_DEF: "联邦学生会"
  GSC_ADJ: "联邦学生会"
 
+ SCB: "D.U. 长湾区"
+ SCB_DEF: "D.U. 长湾区"
+ SCB_ADJ: "D.U. 长湾区"
+
  GNZ: "D.U. 自然保护区"
  GNZ_DEF: "D.U. 自然保护区"
  GNZ_ADJ: "D.U. 自然保护区"
@@ -13,13 +17,29 @@
  ASA_DEF: "埃德天空高级中学"
  ASA_ADJ: "埃德天空高级中学"
 
+ SEC: "斯蒂姆工程学院"
+ SEC_DEF: "斯蒂姆工程学院"
+ SEC_ADJ: "斯蒂姆工程学院"
+
+ HTA: "海伯纳战术学园"
+ HTA_DEF: "海伯纳战术学园"
+ HTA_ADJ: "海伯纳战术学园"
+
+ SRT: "SRT特殊学园"
+ SRT_DEF: "SRT特殊学园"
+ SRT_ADJ: "SRT特殊学园"
+
  FAL: "阿斯拉贡职业学院"
  FAL_DEF: "阿斯拉贡职业学院"
  FAL_ADJ: "阿斯拉贡职业学院"
 
- CCL: "科罗娜冶金学会"
- CCL_DEF: "科罗娜冶金学会"
- CCL_ADJ: "科罗娜冶金学会"
+ CCL: "科罗娜学园"
+ CCL_DEF: "科罗娜学园"
+ CCL_ADJ: "科罗娜学园"
+
+ TSA: "D.U. 海滨区"
+ TSA_DEF: "D.U. 海滨区"
+ TSA_ADJ: "D.U. 海滨区"
 ###############
 ###圣三一文化###
 ###############
@@ -38,10 +58,6 @@
  SRS: "南部秩序重建区"
  SRS_DEF: "南部秩序重建区"
  SRS_ADJ: "南部秩序重建区"
-
- TSA: "关税特别区域"
- TSA_DEF: "关税特别区域"
- TSA_ADJ: "关税特别区域"
 
  NML: ""
  NML_DEF: "无名废墟"
